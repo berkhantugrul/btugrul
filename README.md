@@ -6,8 +6,6 @@
 
 - 💬 Ask me about **Python and C**
 
-- 📫 How to reach me **berkhantugrul@outlook.com**
-
 - ⚡ Fun fact **I AM MAVERICK!**
 
 <h3 align="left">Connect with me:</h3>
