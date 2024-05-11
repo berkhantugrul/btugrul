@@ -1,4 +1,4 @@
-[! [MasterHead] ([https://64.media.tumblr.com/5c7a0d06671da7ad8ef81f4b97b24ba0/c8954178226dd6ab-be/s1280x1920/1df0048706222341eba6120f0807b89821b688f0.gif](https://tenor.com/bCreG.gif))
+[! [MasterHead] (https://tenor.com/bCreG.gif)
 
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
 <h3 align="center">A computer engineering student and Aviator</h3>
