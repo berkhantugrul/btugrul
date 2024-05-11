@@ -2,12 +2,6 @@
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
 <h3 align="center">A computer engineering student and Aviator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkhantugrul&label=Profile%20views&color=0e75b6&style=flat" alt="berkhantugrul" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkhantugrul" alt="berkhantugrul" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **C++ and Qt**
 
 - 💬 Ask me about **Python and C**
@@ -29,4 +23,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=berkhantugrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=berkhantugrul&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkhantugrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkhantugrul&label=Profile%20views&color=0e75b6&style=flat" alt="berkhantugrul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkhantugrul" alt="berkhantugrul" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
