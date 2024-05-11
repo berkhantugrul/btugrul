@@ -24,10 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkhantugrul&show_icons=true&locale=en" alt="berkhantugrul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkhantugrul&" alt="berkhantugrul" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=berkhantugrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=berkhantugrul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkhantugrul&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=berkhantugrul&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
