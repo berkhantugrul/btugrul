@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
-<h3 align="center">A computer engineering student and Aviator</h3>
+<h3 align="center">A computer engineering student and aviator from Turkey.</h3>
 
 - 🌱 I’m currently learning **C++ and Qt**
 
