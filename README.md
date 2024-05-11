@@ -1,5 +1,12 @@
+
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
 <h3 align="center">A computer engineering student and Aviator</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkhantugrul&label=Profile%20views&color=0e75b6&style=flat" alt="berkhantugrul" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkhantugrul" alt="berkhantugrul" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **C++ and Qt**
 
@@ -24,13 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkhantugrul&show_icons=true&locale=en" alt="berkhantugrul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkhantugrul&" alt="berkhantugrul" /></p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=berkhantugrul&theme=dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=berkhantugrul&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
