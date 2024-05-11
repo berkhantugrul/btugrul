@@ -1,5 +1,3 @@
-[! [MasterHead] (https://tenor.com/bCreG.gif)
-
 <h1 align="center">Hi 👋, I'm Berk Han!</h1>
 <h3 align="center">A computer engineering student and Aviator</h3>
 
